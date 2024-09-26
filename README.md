@@ -1,1 +1,1 @@
-A repository for f24 final which includes a text file.
+A repository for f24 final which includes a text file with a Read Me.
